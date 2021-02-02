@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  2 22:03:23 2021
 
-@author: 91884
-"""
 
 
 #importing libraries
